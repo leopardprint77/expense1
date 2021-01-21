@@ -1,10 +1,4 @@
-/* MIS350 Project 
-   12/08/2020
-   Kiran Cardozo
-   This program helps calculate how long it will take for an user
-   to buy a car considering the amount of money they make, their expenditures, and 
-   the price of the car they will purchase
-*/
+
 public class BudgetCalculator {
 
    double monthlyExpenses;
